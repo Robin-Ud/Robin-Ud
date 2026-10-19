@@ -16,6 +16,6 @@ no campo, na pesquisa e no Linux: quase tudo em Python só com a stdlib, um pouc
 
 **Brincando**
 
-[primo-bench](https://github.com/Robin-Ud/primo-bench) (Python × Rust × C) · [Jogo do Pombo](https://robin-ud.github.io/pombaiera/) (ecologia de populações, trabalho da faculdade)
+[Jogo do Pombo](https://robin-ud.github.io/pombaiera/) (ecologia de populações, trabalho da faculdade)
 
 Todo projeto guarda os meus dados numa pasta `pessoal/` fora do git: o que está aqui é só o código.
